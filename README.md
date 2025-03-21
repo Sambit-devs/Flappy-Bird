@@ -1,6 +1,4 @@
-==========================================
 🎮 FLAPPY BIRD - WINDOWS VERSION 📥
-==========================================
 
 📌 ABOUT:
 This is a Windows version of the **Flappy Bird** game created using Java.
