@@ -4,6 +4,12 @@
 This is a Windows version of the **Flappy Bird** game created using Java.
 You can play it directly without needing to install Java!
 
+TECH STACK : 
+            - JAVA 
+            - MAVEN
+            - MONGO-DB (Atlas)
+            - Launch4j (for Packaging)
+            - JLayer (sound)
 ------------------------------------------
 ✅ HOW TO INSTALL & PLAY:
 ------------------------------------------
@@ -38,6 +44,9 @@ You can play it directly without needing to install Java!
 ❓ **Can I share this game with my friends?**  
    - Yes! Just send them the download link:
      🔗 https://github.com/Sambit-devs/Flappy-Bird/releases/download/v1.0/FlappyBird-Windows.zip
+
+❓ **How to delete it completely from the system?** 
+   - Just delete the extracted folder and everything is done.
 
 ------------------------------------------
 ⭐ SUPPORT THE PROJECT ⭐
