@@ -31,6 +31,10 @@ TECH STACK :
 ❓ FREQUENTLY ASKED QUESTIONS (FAQ)
 ------------------------------------------
 
+❓ **How do I run the game on Linux?**  
+   - Open Terminal and cd to the extracted directory.
+   - Enter " java -jar FlappyBird-1.0.jar ".
+
 ❓ **Do I need to install Java to play this?**  
    - No! The `.exe` file is self-contained, so Java is **not required**.
 
